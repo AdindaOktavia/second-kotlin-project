@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsidanLambdas_SingleExpressionFunctions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederha.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederhanaPercabanganWhen.kt" afterDir="false" />
+    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add KalkulatorSederhanaPercabanganWhen.kt">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListOf.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/MenghitungAkarKuadrat.kt" afterDir="false" />
@@ -135,7 +131,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726501792509</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add FungsidanLambdas_SingleExpressionFunctions.kt&#10;Add FungsiMath.kt">
+      <created>1726501886230</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726501886230</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add KalkulatorSederha.kt">
+      <created>1726501998500</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726501998500</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add KalkulatorSederhanaPercabanganWhen.kt">
+      <created>1726502169760</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726502169760</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -148,6 +165,10 @@
     <MESSAGE value="Add ExceptionHandling.kt&#10;Add FungsidanLambdas_ArgumenDefaultFungsi.kt&#10;Add FungsidanLambdas_FungsiDenganNilaiKembali.kt" />
     <MESSAGE value="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt&#10;Add FungsidanLambdas_SingleExpressionFunctions.kt" />
     <MESSAGE value="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt" />
+    <MESSAGE value="Add FungsidanLambdas_SingleExpressionFunctions.kt&#10;Add FungsiMath.kt" />
+    <MESSAGE value="Add KalkulatorSederha.kt" />
+    <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt&#10;Add ListOf.kt" />
+    <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add KalkulatorSederhanaPercabanganWhen.kt" />
   </component>
 </project>

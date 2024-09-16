@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add KalkulatorSederhanaPercabanganWhen.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MenghitungAkarKuadrat.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MenghitungLuasKelilingLingkaran.kt" afterDir="false" />
+    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add Null-Safety.kt">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableListOf.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null-Safety.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator_(Safe Calls).kt" afterDir="false" />
@@ -25,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Set.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhiledanDo-WhileLoop.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +149,35 @@
       <option name="project" value="LOCAL" />
       <updated>1726502169760</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add ListOf.kt">
+      <created>1726502281706</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726502281706</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add Map.kt">
+      <created>1726502355202</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726502355209</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add MenghitungAkarKuadrat.kt&#10;Add MenghitungLuasKelilingLingkaran.kt">
+      <created>1726502463872</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726502463872</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add Null-Safety.kt">
+      <created>1726502751037</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726502751037</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +194,11 @@
     <MESSAGE value="Add KalkulatorSederha.kt" />
     <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt&#10;Add ListOf.kt" />
     <MESSAGE value="Add KalkulatorSederhanaPercabanganWhen.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add KalkulatorSederhanaPercabanganWhen.kt" />
+    <MESSAGE value="Add ListOf.kt" />
+    <MESSAGE value="Add Map.kt" />
+    <MESSAGE value="Add MenghitungAkarKuadrat.kt" />
+    <MESSAGE value="Add MenghitungAkarKuadrat.kt&#10;Add MenghitungLuasKelilingLingkaran.kt" />
+    <MESSAGE value="Add Null-Safety.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Null-Safety.kt" />
   </component>
 </project>

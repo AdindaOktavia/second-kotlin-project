@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add ArrayListOf.kt&#10;Add ArrayMethod.kt&#10;Add ArrayMultidimensi.kt&#10;Add ArrayStandardKotlin.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayTipePrimitive.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakAndContinueLabel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakDanContinue.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EkspresiLambdas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
+    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsiMath.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsidanLambdas_ArgumenDefaultFungsi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsidanLambdas_FungsiDenganNilaiKembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsidanLambdas_FungsiTanpaNilaiKembali.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/FungsidanLambdas_SingleExpressionFunctions.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederha.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/KalkulatorSederhanaPercabanganWhen.kt" afterDir="false" />
@@ -124,7 +114,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726501394790</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add ArrayTipePrimitive.kt&#10;Add BreakAndContinueLabel.kt&#10;Add BreakDanContinue.kt&#10;Add Collections.kt&#10;Add EkspresiLambdas.kt">
+      <created>1726501545286</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726501545286</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add ExceptionHandling.kt&#10;Add FungsidanLambdas_ArgumenDefaultFungsi.kt&#10;Add FungsidanLambdas_FungsiDenganNilaiKembali.kt">
+      <created>1726501674501</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726501674501</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt">
+      <created>1726501792509</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726501792509</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -132,6 +143,11 @@
     <MESSAGE value="Add Array2Dimensi.kt" />
     <MESSAGE value="Add ArrayListOf.kt" />
     <MESSAGE value="Add ArrayListOf.kt&#10;Add ArrayMethod.kt&#10;Add ArrayMultidimensi.kt&#10;Add ArrayStandardKotlin.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayListOf.kt&#10;Add ArrayMethod.kt&#10;Add ArrayMultidimensi.kt&#10;Add ArrayStandardKotlin.kt" />
+    <MESSAGE value="Add ArrayTipePrimitive.kt&#10;Add BreakAndContinueLabel.kt&#10;Add BreakDanContinue.kt&#10;Add Collections.kt&#10;Add EkspresiLambdas.kt" />
+    <MESSAGE value="Add ExceptionHandling.kt&#10;Add FungsidanLambdas_ArgumenDefaultFungsi.kt&#10;Add FungsidanLambdas_FungsiDenganNilaiKembali.kt&#10;Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt" />
+    <MESSAGE value="Add ExceptionHandling.kt&#10;Add FungsidanLambdas_ArgumenDefaultFungsi.kt&#10;Add FungsidanLambdas_FungsiDenganNilaiKembali.kt" />
+    <MESSAGE value="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt&#10;Add FungsidanLambdas_SingleExpressionFunctions.kt" />
+    <MESSAGE value="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add FungsidanLambdas_FungsiTanpaNilaiKembali.kt&#10;Add FungsidanLambdas_MenggunakanPairSebagaiNilaiKembali.kt" />
   </component>
 </project>

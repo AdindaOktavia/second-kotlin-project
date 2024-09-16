@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add Array.kt">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array2Dimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMethod.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayMultidimensi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayStandardKotlin.kt" afterDir="false" />
+    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add ArrayListOf.kt&#10;Add ArrayMethod.kt&#10;Add ArrayMultidimensi.kt&#10;Add ArrayStandardKotlin.kt">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayTipePrimitive.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakAndContinueLabel.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakDanContinue.kt" afterDir="false" />
@@ -45,7 +39,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Set.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhiledanDo-WhileLoop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,11 +110,28 @@
       <option name="project" value="LOCAL" />
       <updated>1725873155877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Array2Dimensi.kt">
+      <created>1726501226701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726501226701</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add ArrayListOf.kt&#10;Add ArrayMethod.kt&#10;Add ArrayMultidimensi.kt&#10;Add ArrayStandardKotlin.kt">
+      <created>1726501394790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726501394790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Array.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Array.kt" />
+    <MESSAGE value="Add Array2Dimensi.kt" />
+    <MESSAGE value="Add ArrayListOf.kt" />
+    <MESSAGE value="Add ArrayListOf.kt&#10;Add ArrayMethod.kt&#10;Add ArrayMultidimensi.kt&#10;Add ArrayStandardKotlin.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayListOf.kt&#10;Add ArrayMethod.kt&#10;Add ArrayMultidimensi.kt&#10;Add ArrayStandardKotlin.kt" />
   </component>
 </project>

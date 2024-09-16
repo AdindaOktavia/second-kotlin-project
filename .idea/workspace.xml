@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add Null-Safety.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableListOf.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null-Safety.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator_(Safe Calls).kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator_ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator_PemeriksaanKondisiNull .kt" afterDir="false" />
+    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add Operator_PemeriksaanKondisiNull .kt">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanFor-LoopPadaKalkulatorEksponensial.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanFor-LoopPadaTabelPerkalian.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanWhile-LoopPadaKalkulatorSederhana.kt" afterDir="false" />
@@ -21,7 +16,6 @@
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Set.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhiledanDo-WhileLoop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +171,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726502751037</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add MutableListOf.kt">
+      <created>1726503398101</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726503398101</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add Operator_(Safe Calls).kt&#10;Add Operator_ElvisOperator.kt">
+      <created>1726503449850</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726503449850</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add Operator_PemeriksaanKondisiNull .kt">
+      <created>1726503578143</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1726503578143</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -199,6 +214,11 @@
     <MESSAGE value="Add MenghitungAkarKuadrat.kt" />
     <MESSAGE value="Add MenghitungAkarKuadrat.kt&#10;Add MenghitungLuasKelilingLingkaran.kt" />
     <MESSAGE value="Add Null-Safety.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Null-Safety.kt" />
+    <MESSAGE value="Add MutableListOf.kt" />
+    <MESSAGE value="Add Operator_(Safe Calls).kt" />
+    <MESSAGE value="Add Operator_(Safe Calls).kt&#10;Add Operator_ElvisOperator.kt" />
+    <MESSAGE value="Add Operator_PemeriksaanKondisiNull .kt&#10;Add PenerapanFor-LoopPadaKalkulatorEksponensial.kt" />
+    <MESSAGE value="Add Operator_PemeriksaanKondisiNull .kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Operator_PemeriksaanKondisiNull .kt" />
   </component>
 </project>

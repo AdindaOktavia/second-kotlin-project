@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add ArrayMultidimensi.kt">
+    <list default="true" id="bddedaa5-955a-4190-9d10-31a4a28d9936" name="Changes" comment="Add Ranges.kt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Map.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PenerapanFor-LoopPadaTabelPerkalian.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanFor-LoopPadaTabelPerkalian.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,37 +40,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RangesKt">
-    <configuration name="ArrayMultidimensiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMultidimensiKt" />
+  <component name="RunManager" selected="Kotlin.WhiledanDo_WhileLoopKt">
+    <configuration name="PenerapanFor_LoopPadaKalkulatorEksponensialKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanFor_LoopPadaKalkulatorEksponensialKt" />
       <module name="SecondKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListOfKt" />
+    <configuration name="PenerapanFor_LoopPadaTabelPerkalianKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanFor_LoopPadaTabelPerkalianKt" />
       <module name="SecondKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapKt" />
+    <configuration name="PenerapanWhile_LoopPadaKalkulatorSederhanaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanWhile_LoopPadaKalkulatorSederhanaKt" />
       <module name="SecondKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangesKt" />
+    <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <module name="SecondKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SetKt" />
+    <configuration name="WhiledanDo_WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhiledanDo_WhileLoopKt" />
       <module name="SecondKotlinProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.RangesKt" />
-        <item itemvalue="Kotlin.MapKt" />
-        <item itemvalue="Kotlin.SetKt" />
-        <item itemvalue="Kotlin.ListOfKt" />
-        <item itemvalue="Kotlin.ArrayMultidimensiKt" />
+        <item itemvalue="Kotlin.WhiledanDo_WhileLoopKt" />
+        <item itemvalue="Kotlin.PenerapanFor_LoopPadaKalkulatorEksponensialKt" />
+        <item itemvalue="Kotlin.PenerapanWhile_LoopPadaKalkulatorSederhanaKt" />
+        <item itemvalue="Kotlin.PenerapanFor_LoopPadaTabelPerkalianKt" />
+        <item itemvalue="Kotlin.WhenKt" />
       </list>
     </recent_temporary>
   </component>
@@ -271,12 +270,24 @@
       <option name="project" value="LOCAL" />
       <updated>1726996416027</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add Map.kt">
+      <created>1727000506069</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727000506069</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add Ranges.kt">
+      <created>1727000547839</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727000547839</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add ListOf.kt" />
-    <MESSAGE value="Add Map.kt" />
     <MESSAGE value="Add MenghitungAkarKuadrat.kt" />
     <MESSAGE value="Add MenghitungAkarKuadrat.kt&#10;Add MenghitungLuasKelilingLingkaran.kt" />
     <MESSAGE value="Add Null-Safety.kt" />
@@ -293,13 +304,15 @@
     <MESSAGE value="Add Percabangan2.kt" />
     <MESSAGE value="Add Percabangan2.kt&#10;Add PerulanganForLoop.kt" />
     <MESSAGE value="Add Ranges.kt&#10;Add ReturnPerulanganFor-Loop.kt" />
-    <MESSAGE value="Add Ranges.kt" />
     <MESSAGE value="Add ReturnPerulanganFor-Loop.kt" />
     <MESSAGE value="Add ReturnPerulanganFor-Loop.kt&#10;Add Set.kt" />
     <MESSAGE value="Add When.kt&#10;Add WhiledanDo-WhileLoop.kt" />
     <MESSAGE value="Add When.kt" />
     <MESSAGE value="Add WhiledanDo-WhileLoop.kt" />
     <MESSAGE value="Add ArrayMultidimensi.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ArrayMultidimensi.kt" />
+    <MESSAGE value="Add Map.kt&#10;add Ranges.kt" />
+    <MESSAGE value="Add Map.kt" />
+    <MESSAGE value="Add Ranges.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Ranges.kt" />
   </component>
 </project>

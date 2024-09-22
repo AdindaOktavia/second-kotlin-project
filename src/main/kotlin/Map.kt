@@ -20,11 +20,6 @@ fun main() {
     mutableMap["one"] = 11
     println(mutableMap)
 
-    val readableMap = hashMapOf("foo" to 1, "bar" to 2)
-    mutableMap.put("three", 3)
-    mutableMap["one"] = 11
-    println(mutableMap)
-
     val readWriteMap = hashMapOf("foo" to 1, "bar" to 2)
     println(readWriteMap["foo"])
 }
